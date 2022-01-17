@@ -1,3 +1,8 @@
+ # Creator Name: Deven Greenlee
+ # Language: Python 
+ # Function: Takes in calorie data and writes it to a file 
+ # Last Edited: 1/10/22
+
 file = open("dataStore.txt", 'w')
 trigger = True
 
