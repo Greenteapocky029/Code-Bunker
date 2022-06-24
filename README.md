@@ -9,3 +9,4 @@ All scripts are located in different branches that are seperated by each project
 Current Scripts:
 
  -Python Code 
+ - JavaScript Code 
