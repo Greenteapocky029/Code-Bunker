@@ -1,0 +1,43 @@
+#infoSection{
+	width: 400px; 
+	float:left; 
+	height:300px; 
+	 
+	margin:40px;
+	border-right:solid 1px #000 ;
+	background-color: blueviolet;
+}
+
+#mainSection{
+	 width: 700px;
+	  float:left;
+	  height:300px; 
+	  margin:40px;
+	  background-color: orangered;
+}
+#workHistory
+{
+	width: 400px; 
+	float:left; 
+	height:600px; 
+	 
+	margin:40px;
+	border-right:solid 1px #000 ;
+	background-color: darkred;
+}
+#skills{
+	width: 700px;
+	float:left;
+	height:500px; 
+	margin:40px;
+	background-color: orangered;
+
+}
+#footBar{
+
+	width:2000px;
+	float:left;
+	height:200px; 
+	background-color: black;
+
+}
