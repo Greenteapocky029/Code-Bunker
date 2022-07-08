@@ -6,13 +6,10 @@ This is where I keep the code related to my projects and scripts:
 
 All scripts are located in different branches that are seperated by each project
 
-Current Projects 
+Current py scripts:
 
--Spirit Warrior
-
--Dark Ember (in Progress)
-
-
-MISC code:
-
- -Python Code 
+ - distance converter 
+ - favorite letter finder 
+ - callorie data writer 
+ - average calculator 
+ 
