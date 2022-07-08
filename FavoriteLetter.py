@@ -1,6 +1,6 @@
  # Creator Name: Deven Greenlee
  # Language: Python 
- # Function: takes in text from the user and prints out the most frequent  
+ # Function: takes in text from the user and prints out the most frequent letter  
  # Last Edited: 12/2/20
 
 print("please enter text")
