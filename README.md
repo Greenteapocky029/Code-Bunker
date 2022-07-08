@@ -6,8 +6,8 @@ This is where I keep the code related scripts and related prjoects:
 
 All scripts are located in different branches that are seperated by each project
 
-Current Scripts:
+Current cpp related Scripts:
 
- - Python Code 
- - HTML/CSS Code
- - JavaScript Code 
+ - C to F temp converter
+ - File line counter 
+ - string permutation script
