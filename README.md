@@ -10,4 +10,5 @@ Current Scripts:
 
  - Python Code 
  - HTML/CSS Code
- - JavaScript Code 
+ - JavaScript Code
+ - c++ Code 
