@@ -1,3 +1,6 @@
+//Creator: Deven greenlee
+//date modified: 7/28/22 
+//Purpose: this is temp class for books 
 #include <iostream>
 #include<cmath>
 
