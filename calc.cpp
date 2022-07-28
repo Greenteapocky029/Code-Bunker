@@ -1,3 +1,6 @@
+//Creator: Deven greenlee
+//date modified: 7/28/22 
+//Purpose: this code works like a calculator given the numbers and operator 
 #include <iostream
 
 using namespace std;
