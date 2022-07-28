@@ -1,3 +1,6 @@
+//Creator: Deven greenlee
+//date modified: 7/28/22 
+//Purpose: This code allows user to guess the secret number with limited number of guesses 
 #include <iostream>
 #include<cmath>
 
