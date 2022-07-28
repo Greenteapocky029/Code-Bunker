@@ -1,3 +1,6 @@
+//Creator: Deven greenlee
+//date modified: 7/28/22 
+//Purpose: This code asks users for input for a small aslib
 #include <iostream>
 
 using namespace std;
